@@ -1,0 +1,2 @@
+view.NewClass
+view.Student
